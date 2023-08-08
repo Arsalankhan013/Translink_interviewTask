@@ -6,4 +6,6 @@ Java JDK 8 or Later
 Maven(build management, required dependencies stored in POM.xml can be cloned with project)
 Chrome
 
-Git clone 
+Git clone https://github.com/Arsalankhan013/Translink_interviewTask.git
+
+
